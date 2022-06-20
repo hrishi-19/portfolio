@@ -134,8 +134,8 @@ section{
 }
 .section_heading{
     width: 90%;
-    font-family:"Papyrus", fantasy;
-    font-weight: 800;
+    /* font-family:"Papyrus", fantasy;
+    font-weight: 800; */
     
 }
 .heading{
@@ -175,7 +175,7 @@ section{
 }
 
 .project-heading{
-    font-family:"Papyrus", fantasy;
+    /* font-family:"Papyrus", fantasy; */
     -webkit-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
@@ -209,8 +209,8 @@ section{
 .project-desc{
     padding: 0 1rem;
     font-size: 1.3rem;
-    font-family:"Papyrus", fantasy;
-    font-weight: 800;
+    /* font-family:"Papyrus", fantasy;
+    font-weight: 800; */
     text-align: left;
     width: 100%;
 
@@ -345,8 +345,8 @@ a:hover{
    align-items: center;
 }
 .inbox{
-    font-family: "Papyrus", fantasy;
-    font-weight: 800;
+    /* font-family: "Papyrus", fantasy;
+    font-weight: 800; */
 }
 .mail-me ,.mail-to{
     width: 120px;
@@ -356,8 +356,8 @@ a:hover{
     background-color: #665DD0;
     color: #fff;
     font-size: 1.3rem;
-    font-family: 'Papyrus',fantasy;
-    font-weight: 800;
+    /* font-family: 'Papyrus',fantasy;
+    font-weight: 800; */
     border-radius: 10px;
     border: none;
     box-shadow: 0 0 3px #665DD0;
