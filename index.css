@@ -55,7 +55,7 @@ body{
     display: flex;
     flex-direction: column;
     padding: 0;
-    background: url("assets/static/desktop.jpg");
+    background: url("https://i.ibb.co/n6H2bws/desktop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position:center
@@ -444,7 +444,7 @@ footer{
             display: none;
         }
         .main-black{
-            background: url("assets/static/hrishi.jpg");
+            background: url("https://i.ibb.co/Wp013pG/hrishi.jpg");
             background-position: center;
             background-size: cover;
         }
